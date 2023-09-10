@@ -4,9 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hizar62&label=Profile%20views&color=0e75b6&style=flat" alt="hizar62" /> </p>
 
-- 🌱 I’m currently learning **Android Developement, React.js**
+- 🏢 Currently pursuing my degree in Computer Science at the University of Gujrat.
 
-- 💬 Ask me about **React.js, Node.js, Python, Kotlin**
+- 🔭 Currently working on Flutter and Machine Learning.
+
+- 💬 Ask me about **React.js, Python, Dart**
 
 - 📫 How to reach me **hizarsajjad632@gmail.com**
 
