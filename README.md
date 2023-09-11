@@ -1,7 +1,6 @@
  <h1 align="center">Hi 👋, I'm Hizar</h1>
 <img align = "right" alt = "coding" width="400" src = "https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hizar62&label=Profile%20views&color=0e75b6&style=flat" alt="hizar62" /> </p>
 
 - 🏢 Currently pursuing my degree in Computer Science at the University of Gujrat.
 
