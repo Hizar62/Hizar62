@@ -6,11 +6,10 @@
 
 - 🔭 Currently working on Flutter and Machine Learning.
 
-- 💬 Ask me about **React.js, Python, Dart**
+- 💬 Ask me about **Flutter, Python**
 
 - 📫 How to reach me **hizarsajjad632@gmail.com**
 
-- ⚡ Fun fact **I speak in mind.**
 <br/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
