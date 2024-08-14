@@ -4,7 +4,7 @@
 
 - 🏢 Currently pursuing my degree in Computer Science at the University of Gujrat.
 
-- 🔭 Currently working on Flutter and Machine Learning.
+- 🔭 Currently working on Flutter, Django and Machine Learning.
 
 - 💬 Ask me about **Flutter, Python**
 
