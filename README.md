@@ -2,7 +2,7 @@
 <img align = "right" alt = "coding" width="400" src = "https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 
-- 🏢 Currently pursuing my degree in Computer Science at the University of Gujrat.
+- 🏢 Graduated in Computer Science from the University of Gujrat.
 
 - 🔭 Currently working on Flutter, Django and Machine Learning.
 
