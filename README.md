@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Hizar</h1>
-<img align = "right" alt = "coding" width="400" src = "https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+
 
 
 - 🏢 Graduated in Computer Science from the University of Gujrat.
