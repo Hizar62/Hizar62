@@ -2,13 +2,6 @@
 
 
 
-- 🏢 Graduated in Computer Science from the University of Gujrat.
-
-- 🔭 Currently working on Flutter, Django and Gen AI.
-
-- 💬 Ask me about **Flutter, Python**
-
-- 📫 How to reach me **hizarsajjad632@gmail.com**
 
 
 
