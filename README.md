@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Hizar</h1>
+ <h1 align="center">Hi 👋, I'm Hizar, Mobile App Developer</h1>
 
 
 
