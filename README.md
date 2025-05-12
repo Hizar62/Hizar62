@@ -21,14 +21,13 @@
   <a href="https://www.leetcode.com/hizar68" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
 
-<a href="https://www.upwork.com/freelancers/~01e5e13bacf9071c17" target="_blank">
-  <img src="https://img.shields.io/badge/-Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white"/>
+<a href="https://www.upwork.com/freelancers/~01e5e13bacf9071c17">
+  <img src="https://cdn.simpleicons.org/upwork" alt="Upwork icon" width="32" height="32" />
+</a>
+<a href="https://www.fiverr.com/s/0bPW4gx">
+  <img src="https://cdn.simpleicons.org/fiverr" alt="Fiverr icon" width="32" height="32" />
 </a>
 
-
-<a href="https://www.fiverr.com/s/0bPW4gx" target="_blank">
-  <img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white"/>
-</a>
 </p>
 
 
