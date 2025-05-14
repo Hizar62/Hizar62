@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Hizar, Flutter Developer.</h1>
+ <h1 align="center">Hi 👋, I'm Hizar, Flutter App Developer.</h1>
 
 
 <p align="center">
