@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://personal-portfolio-orpin-iota-35.vercel.app/" target="_blank">
+  <a href="https://hizar-sajjad.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" alt="portfolio" />
   </a>
 </p>
