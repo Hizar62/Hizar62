@@ -14,7 +14,7 @@ Let's connect!
 
 ## Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/hizar-sajjad-850055217/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" /></a>
   <a href="https://www.upwork.com/freelancers/~01e5e13bacf9071c17"><img src="https://cdn.simpleicons.org/upwork" width="50" height="40" /></a>
   <a href="https://www.fiverr.com/s/0bPW4gx"><img src="https://cdn.simpleicons.org/fiverr" width="50" height="40" /></a>
