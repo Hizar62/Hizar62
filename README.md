@@ -12,7 +12,7 @@ Let's connect!
 
 ---
 
-## Connect With Me
+<h2 align="center">Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hizar-sajjad-850055217/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" /></a>
