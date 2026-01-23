@@ -4,7 +4,7 @@ I'm a Flutter Developer and n8n Automation Expert from Pakistan.
 
 I currently work as a freelance developer, helping startups and businesses build mobile apps and automation workflows. I focus on Flutter applications for iOS and Android, n8n workflow automation, and AI chatbot integration that eliminate manual work and save time.
 
-My work spans building mobile apps serving thousands of users to automation workflows saving clients 20+ hours weekly. I've built apps like the [Physiotherapy Booking App](https://play.google.com/store/apps/details?id=com.outbound.physiotherapy), [Community Service Finder](https://play.google.com/store/apps/details?id=com.partnerupclient.org), [Vibe App](https://play.google.com/store/apps/details?id=com.vibe.wewevibe) and custom POS systems processing 200+ daily transactions.
+My work spans building mobile apps serving thousands of users to automation workflows saving clients 20+ hours weekly. I've built apps like the [Physiotherapy Booking App](https://play.google.com/store/apps/details?id=com.outbound.physiotherapy), [Community Service Finder](https://play.google.com/store/apps/details?id=com.partnerupclient.org) and custom POS systems processing 200+ daily transactions.
 
 Outside work, I'm following emerging tech, experimenting with AI agents, and building side projects.
 
