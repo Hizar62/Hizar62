@@ -10,7 +10,6 @@ Outside work, I'm following emerging tech, experimenting with AI agents, and bui
 
 Let's connect!
 
----
 
 <h2 align="center">Connect With Me</h2>
 
