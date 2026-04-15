@@ -10,14 +10,17 @@ Outside work, I'm following emerging tech, experimenting with AI agents, and bui
 
 Let's connect!
 
-
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hizar-sajjad-850055217/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" /></a>
-  <a href="https://www.upwork.com/freelancers/~01e5e13bacf9071c17"><img src="https://cdn.simpleicons.org/upwork" width="50" height="40" /></a>
-  <a href="https://www.fiverr.com/s/0bPW4gx"><img src="https://cdn.simpleicons.org/fiverr" width="50" height="40" /></a>
-  <a href="https://www.instagram.com/11izarhere"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="50" /></a>
-  <a href="mailto:hizarsajjad632@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" width="50" /></a>
-  <a href="https://hizar-sajjad.vercel.app"><img src="https://cdn.simpleicons.org/googlechrome" height="40" width="50" /></a>
+  <table align="center">
+    <tr>
+      <td><a href="https://www.linkedin.com/in/hizar-sajjad-850055217/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" /></a></td>
+      <td><a href="https://www.upwork.com/freelancers/~01e5e13bacf9071c17"><img src="https://cdn.simpleicons.org/upwork" width="40" height="40" /></a></td>
+      <td><a href="https://www.fiverr.com/s/0bPW4gx"><img src="https://cdn.simpleicons.org/fiverr" width="40" height="40" /></a></td>
+      <td><a href="https://www.instagram.com/11izarhere"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" /></a></td>
+      <td><a href="mailto:hizarsajjad632@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" /></a></td>
+      <td><a href="https://hizar-sajjad.vercel.app"><img src="https://cdn.simpleicons.org/googlechrome" width="40" height="40" /></a></td>
+    </tr>
+  </table>
 </p>
